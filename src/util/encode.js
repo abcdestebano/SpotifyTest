@@ -1,0 +1,3 @@
+export default {
+  encode: "YmI2MWRiYzI0ZTExNDVhNjliMWZlNmExOWM1NTdhOTE6OGVkZTk0M2M1Yzg3NGFjYmJjMmQ5NjE5OWVmM2ViY2U="
+};
